@@ -1,0 +1,37 @@
+.partOne {
+    background-color: #42664b;
+    color: #ffffff;
+}
+
+.logo {
+    font-size: 24px;
+    font-family: Impact, sans-serif;
+    font-weight: 700;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 16px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 16px;
+}
+.partTwo {
+    color: #1F2937;
+}
+
+.partThree {
+    background-color: #7c9480;
+    color: #1F2937;
+}
+
+.partFour {
+
+}
