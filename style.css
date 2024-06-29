@@ -1,6 +1,56 @@
 .partOne {
     background-color: #42664b;
     color: #ffffff;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+.onePhoto{
+   
+    width: auto;
+    height: 250px;
+}
+
+.oneA {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 60px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700px;
+    padding: 0;
+    margin: 0;
+}
+
+.oneB {
+    display: flex;
+    flex-direction: column;
+    font-family: Impact, sans-serif;
+    align-items: start;
+    gap: 8px;
+}
+
+.oneC {
+    color:#aeb8af;
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    color:#ffffff;
+    background-color: #7c9480;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 8px;
+    padding: 5px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
 }
 
 .logo {
@@ -13,7 +63,9 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    padding: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
 }
 
 ul {
@@ -22,16 +74,27 @@ ul {
     padding: 0;
     margin: 0;
     gap: 16px;
+    font-family: Impact, sans-serif;
 }
 .partTwo {
     color: #1F2937;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .partThree {
     background-color: #7c9480;
     color: #1F2937;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .partFour {
+    padding-left: 200px;
+    padding-right: 200px;
+}
 
+body {
+    padding: 0;
+    margin: 0;
 }
